@@ -1,0 +1,4 @@
+[21-May-2024 22:31:13 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[21-May-2024 22:31:13 UTC] Cron reschedule event error for hook: wp_background_process_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"wp_background_process_cron_interval","args":[],"interval":60}
+[21-May-2024 22:31:13 UTC] Cron reschedule event error for hook: fluentform_do_scheduled_tasks, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"ff_every_five_minutes","args":[],"interval":300}
+[12-Jun-2024 02:41:11 UTC] PHP Warning:  Attempt to read property "comment_post_ID" on null in /home/customer/www/cash-for-car.co.nz/public_html/wp-content/plugins/sg-cachepress/core/Supercacher/Supercacher_Comments.php on line 34

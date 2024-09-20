@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: Corporate Accounting (WPBakery Builder) were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://carswrecker.kingauto.co.nz
+Data file = /home3/kingauto/public_html/carswrecker/wp-content/uploads/demo-content-import-file_2021-09-06__00-19-06.xml
+Widget file = /home3/kingauto/public_html/carswrecker/wp-content/uploads/demo-widgets-import-file_2021-09-06__00-19-06.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Blog Widgets : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+Recent Posts - No Title - Imported
+
+Footer Widgets : 
+
+Navigation Menu - No Title - Imported
+
+Portfolio Widgets : 
+
+Shufflehound Social - No Title - Imported
+Categories - No Title - Imported
+
+
+
+---ocdi/after_import---
+
